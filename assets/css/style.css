@@ -1,0 +1,25 @@
+/* DEFAULT COLOUR Palette 
+
+*/
+
+
+/* Import Botstrap css */
+@import url("bootstrap.min.css");
+@import url("bootstrap.theme.css");
+
+/* Google Fonts */
+@import url(http://fonts.googleapis.com/css?family=Ropa+Sans:400,400italic|Fjalla+One);
+
+/* Local Fonts */
+@font-face {
+    font-family: name;
+    src: local(bttf_font), url('../fonts/font.otf') format('opentype');
+	}
+
+body{
+	font-family: 'Ropa Sans', sans-serif;
+	}
+
+h1{
+	font-family: 'Fjalla One', sans-serif;
+}
